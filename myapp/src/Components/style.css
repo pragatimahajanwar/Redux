@@ -1,0 +1,24 @@
+.loginPage{
+   background: url('https://media.istockphoto.com/id/1311598658/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept.jpg?b=1&s=612x612&w=0&k=20&c=bpQMsH07ziELXla0SZJt84-w0JkxsVXs05c7T2Iygks=');
+background-repeat: no-repeat ;
+background-size: 100% 120%;
+background-position: center;
+}
+
+.loginForm{
+    background-color: rgb(27, 22, 32);
+    color: rgb(14, 14, 13);
+    background: linear-gradient(rgb(148, 62, 62),rgb(103, 103, 221));
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.empImg {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
